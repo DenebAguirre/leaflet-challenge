@@ -1,0 +1,30 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+/* .legend {
+  background-color: gray;
+  color: white;
+  padding: 5px 10px;
+} */
+
+
+dl
+{
+    width: 200px;
+    background: #fff;
+    border: 1px solid #000;
+    padding: 5px 15px;
+ }
+
+ dt, dd
+ {
+    display: inline;
+ } 
